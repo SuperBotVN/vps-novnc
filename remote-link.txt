@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://palmer-cloudy-arms-commissioner.trycloudflare.com/vnc.html
+URL       : https://welcome-structured-rosa-freight.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-01 17:41:19
+Created   : 2026-07-01 21:25:46
 =======================================================
