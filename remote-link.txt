@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://affect-iso-moon-feat.trycloudflare.com/vnc.html
+URL       : https://boxes-billy-complement-under.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-17 02:10:06
+Created   : 2026-07-17 07:15:37
 =======================================================
