@@ -1,1 +1,9 @@
-TUNNEL_FAILED_20260717_210557
+=======================================================
+noVNC INFO - DucThang x TrueHieu Edition
+=======================================================
+URL       : https://semiconductor-icons-mother-vocational.trycloudflare.com/vnc.html
+Password  : hieudz
+Host      : trycloudflare
+Protocol  : noVNC over Cloudflared
+Created   : 2026-07-18 01:58:51
+=======================================================
