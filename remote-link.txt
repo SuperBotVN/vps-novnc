@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://semiconductor-icons-mother-vocational.trycloudflare.com/vnc.html
+URL       : https://attractions-approx-wishing-nhs.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-18 01:58:51
+Created   : 2026-07-18 07:00:20
 =======================================================
