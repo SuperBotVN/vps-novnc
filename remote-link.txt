@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://kyle-pride-debug-ear.trycloudflare.com/vnc.html
+URL       : https://hayes-made-shannon-electro.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-24 07:30:42
+Created   : 2026-07-24 11:40:52
 =======================================================
